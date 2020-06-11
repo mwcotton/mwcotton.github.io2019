@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Matthew Cotton</title>
+    <link>www.mwcotton.co.uk/categories/</link>
+      <atom:link href="www.mwcotton.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Matthew Cotton 2020</copyright>
+    <image>
+      <url>/www.mwcotton.co.uk/images/icon_hu3e35feacbdb53b68611beab87741526d_9762_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>www.mwcotton.co.uk/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
